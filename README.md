@@ -12,6 +12,6 @@ It's a simple ui for a media player app using Flutter & Dart.
 * [ ] Home Page
 
 
-## Getting Started
+## Screenshots
 
 ![](assets/images/screen.png)
