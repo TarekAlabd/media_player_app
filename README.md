@@ -8,6 +8,7 @@ It's a simple ui for a media player app using Flutter & Dart.
 * [x] Cross Platform App (Android - IOS - Web)
 * [x] A good user interface
 * [ ] Menu Drawer
+* [ ] Logic Code
 
 
 ## Getting Started
