@@ -9,6 +9,7 @@ It's a simple ui for a media player app using Flutter & Dart.
 * [x] A good user interface
 * [ ] Menu Drawer
 * [ ] Logic Code
+* [ ] Home Page
 
 
 ## Getting Started
