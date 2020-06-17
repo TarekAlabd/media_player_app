@@ -11,6 +11,7 @@ It's a simple ui for a media player app using Flutter & Dart.
 * [ ] Logic Code
 * [ ] Home Page
 * [ ] My Likes Screen
+* [ ] SQLite Database
 
 
 ## Screenshots
