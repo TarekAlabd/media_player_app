@@ -12,6 +12,7 @@ It's a simple ui for a media player app using Flutter & Dart.
 * [ ] Home Page
 * [ ] My Likes Screen
 * [ ] SQLite Database
+* [ ] Download your liked sounds to your local database
 
 
 ## Screenshots
